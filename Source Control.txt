@@ -1,0 +1,27 @@
+Source Control Assignment
+
+1.	“.gitignore”: https://github.com/github/gitignore
+
+Chosen for useful .gitignore templates, also contains a readme file 
+that contains information on how the files work, and how to use them.
+
+2.	“O3DE”: https://github.com/o3de/o3de
+
+I chose this because I’d like a look into a multi-platform 3D engine, 
+as I’d like to focus on how they’re built and what makes them tick.
+
+3.	“Cocos Engine”: https://github.com/cocos/cocos-engine
+
+I chose a 2nd Engine to look at, because looking at a couple of different 
+ones can help myself get a better understanding of how they work.
+
+4.	“Warzone 2100”: https://github.com/Warzone2100/warzone2100
+
+An open source RTS game. Though this game uses mostly C++, it uses other 
+types of programming language like JavaScript and C. Having a look into a 
+game that makes use of multiple languages I can see how they interact.
+
+5.	“Vircadia”: https://github.com/vircadia/vircadia
+
+With computer technology advancing at an increasing rate, and VR becoming 
+more popular, I chose this to have an in-depth look into a developing VR platform.
